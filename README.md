@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/anhhieuk746?theme=dark&font=JetBrains%20Mono&ext=heatmap&width=1000"
+    src="https://leetcard.jacoblin.cool/BlueCat215?theme=dark&font=JetBrains%20Mono&ext=heatmap&width=1000"
     alt="LeetCode Stats"
     width="100%"
   />
