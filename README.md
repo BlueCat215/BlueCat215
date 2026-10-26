@@ -14,5 +14,19 @@
 ### Coding Metrics & Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/BlueCat215?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="Hieu's LeetCode Stats" width="80%" />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=BlueCat215&hide_border=true&timezone=Asia%2FHo_Chi_Minh&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Mon&fire=2DA44E&currStreakNum=2DA44E&ring=2DA44E&currStreakLabel=2DA44E"
+    alt="GitHub Streak"
+      width="60%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/BlueCat215?theme=light&font=JetBrains%20Mono&ext=heatmap"
+    alt="LeetCode Stats"
+    width="60%"
+  />
 </p>
