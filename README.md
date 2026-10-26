@@ -1,4 +1,5 @@
-## Hi, I'm Hieu ### About me
+# H!, !'m H I E U 
+### About me
 
 <p align="justify">
   I am developing my skills to become a
@@ -10,10 +11,8 @@
   <strong>integrate AI models</strong> into practical, user-centric products.
 </p>
 
+### Coding Metrics & Activity
+
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/BlueCat215?theme=dark&font=JetBrains%20Mono&ext=heatmap&width=1000"
-    alt="LeetCode Stats"
-    width="100%"
-  />
+  <img src="https://leetcard.jacoblin.cool/BlueCat215?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="Hieu's LeetCode Stats" width="80%" />
 </p>
